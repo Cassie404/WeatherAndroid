@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Weather Information App</string>
+    <string name="location">  [ Current Location -> ]</string>
+    <string name="gust">Gust</string>
+    <string name="humidity">Humidity</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="day_forecast_gragh_title">Automatic Forecast on the location</string>
 </resources>
